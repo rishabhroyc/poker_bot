@@ -1,0 +1,302 @@
+[
+  {
+    "param": "pf_real_oop",
+    "value": 0.8,
+    "is_baseline": false,
+    "diff": -1.2660897435897436,
+    "se": 0.4867587431896629,
+    "ci": [
+      -2.220136880241483,
+      -0.31204260693800434
+    ],
+    "tag": "sweep_pf_real_oop_0p8"
+  },
+  {
+    "param": "pf_real_oop",
+    "value": 0.85,
+    "is_baseline": false,
+    "diff": -2.4696153846153845,
+    "se": 0.4913121799447491,
+    "ci": [
+      -3.432587257307093,
+      -1.5066435119236763
+    ],
+    "tag": "sweep_pf_real_oop_0p85"
+  },
+  {
+    "param": "pf_real_oop",
+    "value": 0.894289,
+    "is_baseline": true,
+    "diff": 0.0,
+    "se": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "tag": "champion_v3"
+  },
+  {
+    "param": "pf_real_oop",
+    "value": 0.94,
+    "is_baseline": false,
+    "diff": -2.1465384615384617,
+    "se": 0.4788492692068173,
+    "ci": [
+      -3.0850830291838234,
+      -1.2079938938930999
+    ],
+    "tag": "sweep_pf_real_oop_0p94"
+  },
+  {
+    "param": "pf_real_oop",
+    "value": 0.99,
+    "is_baseline": false,
+    "diff": -1.2902564102564102,
+    "se": 0.48853910295121483,
+    "ci": [
+      -2.2477930520407914,
+      -0.3327197684720292
+    ],
+    "tag": "sweep_pf_real_oop_0p99"
+  },
+  {
+    "param": "pf_real_ip",
+    "value": 0.9,
+    "is_baseline": false,
+    "diff": -2.912692307692308,
+    "se": 0.5169618373282838,
+    "ci": [
+      -3.9259375088557444,
+      -1.8994471065288716
+    ],
+    "tag": "sweep_pf_real_ip_0p9"
+  },
+  {
+    "param": "pf_real_ip",
+    "value": 0.95,
+    "is_baseline": false,
+    "diff": -2.006153846153846,
+    "se": 0.5227334461243812,
+    "ci": [
+      -3.0307114005576334,
+      -0.9815962917500587
+    ],
+    "tag": "sweep_pf_real_ip_0p95"
+  },
+  {
+    "param": "pf_real_ip",
+    "value": 0.997684,
+    "is_baseline": true,
+    "diff": 0.0,
+    "se": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "tag": "champion_v3"
+  },
+  {
+    "param": "pf_real_ip",
+    "value": 1.05,
+    "is_baseline": false,
+    "diff": -1.8191666666666666,
+    "se": 0.5346549262959011,
+    "ci": [
+      -2.8670903222066326,
+      -0.7712430111267006
+    ],
+    "tag": "sweep_pf_real_ip_1p05"
+  },
+  {
+    "param": "pf_real_ip",
+    "value": 1.1,
+    "is_baseline": false,
+    "diff": -1.0715384615384616,
+    "se": 0.533995917383145,
+    "ci": [
+      -2.1181704596094257,
+      -0.024906463467497364
+    ],
+    "tag": "sweep_pf_real_ip_1p1"
+  },
+  {
+    "param": "flop_real",
+    "value": 0.78,
+    "is_baseline": false,
+    "diff": -2.374230769230769,
+    "se": 0.4998126729872825,
+    "ci": [
+      -3.3538636082858426,
+      -1.3945979301756954
+    ],
+    "tag": "sweep_flop_real_0p78"
+  },
+  {
+    "param": "flop_real",
+    "value": 0.83,
+    "is_baseline": false,
+    "diff": -1.504102564102564,
+    "se": 0.4864670776391916,
+    "ci": [
+      -2.45757803627538,
+      -0.5506270919297485
+    ],
+    "tag": "sweep_flop_real_0p83"
+  },
+  {
+    "param": "flop_real",
+    "value": 0.869514,
+    "is_baseline": true,
+    "diff": 0.0,
+    "se": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "tag": "champion_v3"
+  },
+  {
+    "param": "flop_real",
+    "value": 0.92,
+    "is_baseline": false,
+    "diff": -2.9131410256410257,
+    "se": 0.5121754842132424,
+    "ci": [
+      -3.9170049746989806,
+      -1.9092770765830707
+    ],
+    "tag": "sweep_flop_real_0p92"
+  },
+  {
+    "param": "flop_real",
+    "value": 0.97,
+    "is_baseline": false,
+    "diff": -1.896474358974359,
+    "se": 0.5099748004074861,
+    "ci": [
+      -2.8960249677730316,
+      -0.8969237501756862
+    ],
+    "tag": "sweep_flop_real_0p97"
+  },
+  {
+    "param": "turn_real",
+    "value": 0.85,
+    "is_baseline": false,
+    "diff": -1.6039102564102563,
+    "se": 0.49757356095430627,
+    "ci": [
+      -2.579154435880697,
+      -0.628666076939816
+    ],
+    "tag": "sweep_turn_real_0p85"
+  },
+  {
+    "param": "turn_real",
+    "value": 0.9,
+    "is_baseline": false,
+    "diff": -0.920448717948718,
+    "se": 0.49199391444353524,
+    "ci": [
+      -1.8847567902580469,
+      0.04385935436061106
+    ],
+    "tag": "sweep_turn_real_0p9"
+  },
+  {
+    "param": "turn_real",
+    "value": 0.937403,
+    "is_baseline": true,
+    "diff": 0.0,
+    "se": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "tag": "champion_v3"
+  },
+  {
+    "param": "turn_real",
+    "value": 0.98,
+    "is_baseline": false,
+    "diff": -2.6144871794871793,
+    "se": 0.49301511108634527,
+    "ci": [
+      -3.580796797216416,
+      -1.6481775617579426
+    ],
+    "tag": "sweep_turn_real_0p98"
+  },
+  {
+    "param": "turn_real",
+    "value": 1.03,
+    "is_baseline": false,
+    "diff": -1.3649358974358974,
+    "se": 0.4885776896629695,
+    "ci": [
+      -2.3225481691753176,
+      -0.4073236256964772
+    ],
+    "tag": "sweep_turn_real_1p03"
+  },
+  {
+    "param": "river_real",
+    "value": 0.92,
+    "is_baseline": false,
+    "diff": -3.340897435897436,
+    "se": 0.525943372424604,
+    "ci": [
+      -4.371746445849659,
+      -2.310048425945212
+    ],
+    "tag": "sweep_river_real_0p92"
+  },
+  {
+    "param": "river_real",
+    "value": 0.96,
+    "is_baseline": false,
+    "diff": -3.1775,
+    "se": 0.5322279360817117,
+    "ci": [
+      -4.220666754720155,
+      -2.134333245279845
+    ],
+    "tag": "sweep_river_real_0p96"
+  },
+  {
+    "param": "river_real",
+    "value": 1.0,
+    "is_baseline": true,
+    "diff": 0.0,
+    "se": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "tag": "champion_v3"
+  },
+  {
+    "param": "river_real",
+    "value": 1.04,
+    "is_baseline": false,
+    "diff": -3.547628205128205,
+    "se": 0.4943682983386682,
+    "ci": [
+      -4.516590069871995,
+      -2.5786663403844154
+    ],
+    "tag": "sweep_river_real_1p04"
+  },
+  {
+    "param": "river_real",
+    "value": 1.08,
+    "is_baseline": false,
+    "diff": -2.7990384615384616,
+    "se": 0.5110715457427562,
+    "ci": [
+      -3.8007386911942636,
+      -1.7973382318826596
+    ],
+    "tag": "sweep_river_real_1p08"
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "situations": 50000,
+  "gt_samples": 400,
+  "wall_s": 134.0,
+  "part_a": {
+    "v3_checked": 5000,
+    "uniform_agree_pct": 88.3,
+    "uniform_disagree_mean_loss": 0.010773504273504276,
+    "range_aware_agree_pct": 84.84,
+    "range_aware_disagree_mean_loss": 0.02418022650665506
+  },
+  "part_b": {
+    "prior_weights": [
+      -0.1211788595003304,
+      0.1631624606058807,
+      0.16316246060600292,
+      -0.05884261281256621,
+      -0.007156372920525515,
+      0.027012935440436456,
+      0.01287769116495911,
+      -0.03593966460934536,
+      0.015789358170605197,
+      0.045737035956841636,
+      0.02163090690165593,
+      -0.0012360178018119678
+    ],
+    "prior_test_agree_pct": 71.17999999999999,
+    "margin_table": [
+      {
+        "threshold": 0.01,
+        "skip_frac": 0.6004,
+        "agree": 0.8104596935376416,
+        "mean_eq_loss": 0.008492671552298468
+      },
+      {
+        "threshold": 0.02,
+        "skip_frac": 0.3688,
+        "agree": 0.8855748373101953,
+        "mean_eq_loss": 0.006976681127982647
+      },
+      {
+        "threshold": 0.03,
+        "skip_frac": 0.2664,
+        "agree": 0.9294294294294294,
+        "mean_eq_loss": 0.006222785285285286
+      },
+      {
+        "threshold": 0.04,
+        "skip_frac": 0.2276,
+        "agree": 0.9437609841827768,
+        "mean_eq_loss": 0.004716608084358523
+      },
+      {
+        "threshold": 0.05,
+        "skip_frac": 0.2026,
+        "agree": 0.9526159921026653,
+        "mean_eq_loss": 0.0035797137216189543
+      }
+    ]
+  },
+  "part_d": {
+    "best_pstrength": {
+      "tv_current_mean": 0.05998678081161961,
+      "tv_softmax_mean": 0.20448517340773162
+    },
+    "softmax_0.023": {
+      "tv_current_mean": 0.1539298436739142,
+      "tv_softmax_mean": 0.04049379236048623
+    },
+    "lowest_rank": {
+      "tv_current_mean": 0.04164693242114895,
+      "tv_softmax_mean": 0.04164693256696825
+    },
+    "random": {
+      "tv_current_mean": 1.3426150049760244e-09,
+      "tv_softmax_mean": 1.1578261126184197e-09
+    }
+  }
+}

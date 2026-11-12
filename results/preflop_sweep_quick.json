@@ -1,0 +1,388 @@
+[
+  {
+    "param": "preflop_3bet_pct",
+    "value": 0.45,
+    "is_base": false,
+    "diff": -0.9641666666666666,
+    "se": 0.8321807631478746,
+    "ci": [
+      -2.5952409624365007,
+      0.6669076291031675
+    ],
+    "tag": "pf_preflop_3bet_pct_0",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_preflop_3bet_pct_0.json"
+  },
+  {
+    "param": "preflop_3bet_pct",
+    "value": 0.54,
+    "is_base": false,
+    "diff": -1.210625,
+    "se": 0.8728134492499672,
+    "ci": [
+      -2.9213393605299354,
+      0.5000893605299355
+    ],
+    "tag": "pf_preflop_3bet_pct_1",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_preflop_3bet_pct_1.json"
+  },
+  {
+    "param": "preflop_3bet_pct",
+    "value": 0.62,
+    "is_base": true,
+    "diff": 0.0,
+    "se": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "tag": "base"
+  },
+  {
+    "param": "preflop_3bet_pct",
+    "value": 0.7,
+    "is_base": false,
+    "diff": 0.41458333333333336,
+    "se": 0.8214451445264319,
+    "ci": [
+      -1.1954491499384732,
+      2.02461581660514
+    ],
+    "tag": "pf_preflop_3bet_pct_3",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_preflop_3bet_pct_3.json"
+  },
+  {
+    "param": "preflop_3bet_pct",
+    "value": 0.78,
+    "is_base": false,
+    "diff": -1.5383333333333333,
+    "se": 0.9326609025423547,
+    "ci": [
+      -3.3663487023163485,
+      0.28968203564968187
+    ],
+    "tag": "pf_preflop_3bet_pct_4",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_preflop_3bet_pct_4.json"
+  },
+  {
+    "param": "preflop_shove_pct",
+    "value": 0.82,
+    "is_base": false,
+    "diff": 0.8077083333333334,
+    "se": 1.0814537708450742,
+    "ci": [
+      -1.3119410575230122,
+      2.9273577241896787
+    ],
+    "tag": "pf_preflop_shove_pct_0",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_preflop_shove_pct_0.json"
+  },
+  {
+    "param": "preflop_shove_pct",
+    "value": 0.87,
+    "is_base": false,
+    "diff": -0.9035416666666667,
+    "se": 0.9974078377121965,
+    "ci": [
+      -2.858461028582572,
+      1.0513776952492384
+    ],
+    "tag": "pf_preflop_shove_pct_1",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_preflop_shove_pct_1.json"
+  },
+  {
+    "param": "preflop_shove_pct",
+    "value": 0.914578,
+    "is_base": true,
+    "diff": 0.0,
+    "se": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "tag": "base"
+  },
+  {
+    "param": "preflop_shove_pct",
+    "value": 0.95,
+    "is_base": false,
+    "diff": 1.0154166666666666,
+    "se": 0.9275482223233414,
+    "ci": [
+      -0.8025778490870825,
+      2.8334111824204156
+    ],
+    "tag": "pf_preflop_shove_pct_3",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_preflop_shove_pct_3.json"
+  },
+  {
+    "param": "preflop_shove_pct",
+    "value": 0.98,
+    "is_base": false,
+    "diff": -0.06708333333333333,
+    "se": 1.0298882260518512,
+    "ci": [
+      -2.0856642563949612,
+      1.9514975897282947
+    ],
+    "tag": "pf_preflop_shove_pct_4",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_preflop_shove_pct_4.json"
+  },
+  {
+    "param": "preflop_call_def_pct",
+    "value": 0.25,
+    "is_base": false,
+    "diff": 0.75375,
+    "se": 0.8313590932287876,
+    "ci": [
+      -0.8757138227284237,
+      2.3832138227284236
+    ],
+    "tag": "pf_preflop_call_def_pct_0",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_preflop_call_def_pct_0.json"
+  },
+  {
+    "param": "preflop_call_def_pct",
+    "value": 0.35,
+    "is_base": false,
+    "diff": -0.17541666666666667,
+    "se": 0.8137636494682827,
+    "ci": [
+      -1.7703934196245008,
+      1.4195600862911673
+    ],
+    "tag": "pf_preflop_call_def_pct_1",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_preflop_call_def_pct_1.json"
+  },
+  {
+    "param": "preflop_call_def_pct",
+    "value": 0.45,
+    "is_base": true,
+    "diff": 0.0,
+    "se": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "tag": "base"
+  },
+  {
+    "param": "preflop_call_def_pct",
+    "value": 0.55,
+    "is_base": false,
+    "diff": -1.4572916666666667,
+    "se": 0.9160011421004964,
+    "ci": [
+      -3.2526539051836396,
+      0.3380705718503063
+    ],
+    "tag": "pf_preflop_call_def_pct_3",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_preflop_call_def_pct_3.json"
+  },
+  {
+    "param": "preflop_call_def_pct",
+    "value": 0.65,
+    "is_base": false,
+    "diff": -0.28,
+    "se": 0.9555779546723985,
+    "ci": [
+      -2.152932791157901,
+      1.592932791157901
+    ],
+    "tag": "pf_preflop_call_def_pct_4",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_preflop_call_def_pct_4.json"
+  },
+  {
+    "param": "preflop_open_sizes",
+    "value": [
+      4,
+      6
+    ],
+    "is_base": false,
+    "diff": -0.5908333333333333,
+    "se": 0.9371693941018162,
+    "ci": [
+      -2.4276853457728933,
+      1.2460186791062264
+    ],
+    "tag": "pf_preflop_open_sizes_0",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_preflop_open_sizes_0.json"
+  },
+  {
+    "param": "preflop_open_sizes",
+    "value": [
+      5,
+      7
+    ],
+    "is_base": true,
+    "diff": 0.0,
+    "se": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "tag": "base"
+  },
+  {
+    "param": "preflop_open_sizes",
+    "value": [
+      6,
+      9
+    ],
+    "is_base": false,
+    "diff": 0.079375,
+    "se": 0.885164137162745,
+    "ci": [
+      -1.6555467088389801,
+      1.81429670883898
+    ],
+    "tag": "pf_preflop_open_sizes_2",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_preflop_open_sizes_2.json"
+  },
+  {
+    "param": "preflop_open_sizes",
+    "value": [
+      5
+    ],
+    "is_base": false,
+    "diff": -1.0170833333333333,
+    "se": 0.8866394018180965,
+    "ci": [
+      -2.7548965608968023,
+      0.7207298942301359
+    ],
+    "tag": "pf_preflop_open_sizes_3",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_preflop_open_sizes_3.json"
+  },
+  {
+    "param": "preflop_3bet_mults",
+    "value": [
+      2.5,
+      3.5
+    ],
+    "is_base": false,
+    "diff": -0.36375,
+    "se": 0.8983561232409909,
+    "ci": [
+      -2.124528001552342,
+      1.3970280015523422
+    ],
+    "tag": "pf_preflop_3bet_mults_0",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_preflop_3bet_mults_0.json"
+  },
+  {
+    "param": "preflop_3bet_mults",
+    "value": [
+      3,
+      4
+    ],
+    "is_base": true,
+    "diff": 0.0,
+    "se": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "tag": "base"
+  },
+  {
+    "param": "preflop_3bet_mults",
+    "value": [
+      3.5,
+      4.5
+    ],
+    "is_base": false,
+    "diff": 0.2839583333333333,
+    "se": 0.9222828604367443,
+    "ci": [
+      -1.5237160731226855,
+      2.091632739789352
+    ],
+    "tag": "pf_preflop_3bet_mults_2",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_preflop_3bet_mults_2.json"
+  },
+  {
+    "param": "preflop_limp_max_pct",
+    "value": 0.0,
+    "is_base": true,
+    "diff": 0.0,
+    "se": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "tag": "base"
+  },
+  {
+    "param": "preflop_limp_max_pct",
+    "value": 0.48,
+    "is_base": false,
+    "diff": -0.6591666666666667,
+    "se": 0.8168724944646863,
+    "ci": [
+      -2.260236755817452,
+      0.9419034224841185
+    ],
+    "tag": "pf_preflop_limp_max_pct_1",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_preflop_limp_max_pct_1.json"
+  },
+  {
+    "param": "preflop_limp_max_pct",
+    "value": 0.58,
+    "is_base": false,
+    "diff": 0.17291666666666666,
+    "se": 0.8631172480246204,
+    "ci": [
+      -1.5187931394615894,
+      1.8646264727949227
+    ],
+    "tag": "pf_preflop_limp_max_pct_2",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_preflop_limp_max_pct_2.json"
+  },
+  {
+    "param": "pos_open_min",
+    "value": [
+      0.0,
+      0.0
+    ],
+    "is_base": true,
+    "diff": 0.0,
+    "se": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "tag": "base"
+  },
+  {
+    "param": "pos_open_min",
+    "value": [
+      0.25,
+      0.45
+    ],
+    "is_base": false,
+    "diff": 0.6039583333333334,
+    "se": 0.8112855190884848,
+    "ci": [
+      -0.9861612840800968,
+      2.1940779507467636
+    ],
+    "tag": "pf_pos_open_min_1",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_pos_open_min_1.json"
+  },
+  {
+    "param": "pos_open_min",
+    "value": [
+      0.35,
+      0.5
+    ],
+    "is_base": false,
+    "diff": 0.670625,
+    "se": 0.888001559302943,
+    "ci": [
+      -1.0698580562337683,
+      2.4111080562337683
+    ],
+    "tag": "pf_pos_open_min_2",
+    "p_file": "D:\\pokerbot_v3\\results\\sweep_params\\pf_pos_open_min_2.json"
+  }
+]

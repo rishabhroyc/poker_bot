@@ -1,0 +1,26 @@
+[
+  {
+    "param": "turn_real",
+    "value": 0.9,
+    "diff": -3.8783882140347354,
+    "se": 0.22184991790840042,
+    "ci": [
+      -4.313214053135201,
+      -3.4435623749342708
+    ],
+    "passed_gate": false,
+    "tag": "full_sweep_turn_real_0p9"
+  },
+  {
+    "param": "pf_real_ip",
+    "value": 1.1,
+    "diff": -5.208520852085209,
+    "se": 0.25236094809453763,
+    "ci": [
+      -5.703148310350502,
+      -4.713893393819915
+    ],
+    "passed_gate": false,
+    "tag": "full_sweep_pf_real_ip_1p1"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "python": "3.11.18",
+  "numpy": "2.4.6",
+  "scipy": "1.17.1",
+  "bot": "bot_v3/bot.py",
+  "matches": [
+    {
+      "name": "random_stage1_seed7",
+      "opponent": "starter_kit/example_bots/random_bot.py",
+      "stage": 1,
+      "seed": 7,
+      "hands": 400,
+      "legs": 2,
+      "net_chips": 10114,
+      "capped_delta": 400,
+      "time_used_total_s": 8.58,
+      "time_used_avg_per_leg_s": 4.29,
+      "bank_per_leg_s": 30,
+      "notices": 0,
+      "opp_time_used_total_s": 0.11,
+      "opp_notices": 0,
+      "raw_output": "results/baseline/random_stage1_seed7.txt",
+      "log_dir": "logs/baseline_random"
+    },
+    {
+      "name": "starter_stage2_seed7",
+      "opponent": "starter_kit/bot.py",
+      "stage": 2,
+      "seed": 7,
+      "hands": 1000,
+      "legs": 2,
+      "net_chips": 34881,
+      "capped_delta": 1000,
+      "time_used_total_s": 67.72,
+      "time_used_avg_per_leg_s": 33.86,
+      "bank_per_leg_s": 75,
+      "notices": 0,
+      "opp_time_used_total_s": 0.64,
+      "opp_notices": 0,
+      "raw_output": "results/baseline/starter_stage2_seed7.txt",
+      "log_dir": "logs/baseline_starter"
+    }
+  ]
+}
+

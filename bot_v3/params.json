@@ -1,0 +1,109 @@
+{
+  "realisation": {
+    "pf_real_oop": 0.894289,
+    "pf_real_ip": 0.997684,
+    "flop_real": 0.869514,
+    "turn_real": 0.937403,
+    "river_real": 1.0
+  },
+  "opponent_priors": {
+    "sb_open_raise": 0.438105,
+    "sb_open_fold": 0.099388,
+    "bb_raise_vs_limp": 0.295617,
+    "fold_vs_raise_pf": 0.23449,
+    "reraise_vs_raise_pf": 0.219189,
+    "bet_when_checked": 0.488021,
+    "fold_vs_bet": 0.320269,
+    "raise_vs_bet": 0.114747,
+    "bluff_share": 0.168249,
+    "n0": 7.091049
+  },
+  "informativeness": {
+    "sd_raise_prior": [
+      2.574982,
+      3.0
+    ],
+    "sd_pass_prior": [
+      2.054016,
+      3.0
+    ],
+    "gap_scale": 0.184083,
+    "disc_logw": [
+      0.6,
+      0.2,
+      0.2
+    ]
+  },
+  "likelihood": {
+    "pf_width": 0.081134,
+    "pf_raise_floor": 0.046921,
+    "pf_call_open_base": 0.3,
+    "pf_call_open_mult": 0.7,
+    "pf_call_open_suppress": 0.6,
+    "pf_call_floor": 0.036253,
+    "pf_check_suppress": 0.75,
+    "postflop_open_width": 0.06875,
+    "postflop_open_eps": 0.025925,
+    "postflop_check_suppress": 0.796682,
+    "postflop_raise_width": 0.080869,
+    "postflop_raise_base": 0.038543,
+    "postflop_call_width": 0.044037,
+    "postflop_call_base": 0.013675,
+    "bluff_floor_base": 0.059332,
+    "bluff_floor_share": 0.27381,
+    "bluff_strength_threshold": 0.214401,
+    "raise_prob_width": 0.03
+  },
+  "fold_model": {
+    "tau_postflop": 0.062126,
+    "typical_price_postflop": 0.278565,
+    "tau_preflop": 0.089176,
+    "typical_price_preflop": 0.295343
+  },
+  "bet_sizing": {
+    "preflop_open_sizes": [
+      5,
+      7
+    ],
+    "preflop_3bet_mults": [
+      3,
+      4
+    ],
+    "preflop_shove_pct": 0.914578,
+    "preflop_shove_opp_bet": 7,
+    "postflop_open_fracs": [
+      0.5,
+      0.75,
+      1.0
+    ],
+    "facing_bet_raise_fracs": [
+      1.0
+    ],
+    "max_all_in_pot_mult": 1.585502,
+    "nut_threshold_turn": 0.896912,
+    "nut_threshold_river": 0.972421
+  },
+  "strength": {
+    "draw_bonus_fd": 0.277193,
+    "draw_bonus_oesd": 0.176969,
+    "draw_bonus_gut": 0.073639,
+    "turn_factor": 0.437734
+  },
+  "discard": {
+    "discard_temp": 0.022707,
+    "near_tie_margin": 0.027792,
+    "mix_prob": 0.332003,
+    "discard_blend_weight": 0.9
+  },
+  "sampling": {
+    "flop_samples": 500,
+    "turn_samples": 600,
+    "discard_samples": 900
+  },
+  "recency": {
+    "half_life_frac": 0.25,
+    "half_life_min": 30,
+    "sd_half_life_frac": 0.12,
+    "sd_half_life_min": 15
+  }
+}
